@@ -1,2 +1,3 @@
 # Legacy-s-Jewellery-Sales-Analytics-System-Python-
 ✨ Legacy Jewel's Sales Analytics System A Streamlit dashboard using Python/Pandas/Plotly to transform 3-year sales data into strategic insights. It answers 9 key business questions (e.g., Client Network Growth, Service Risk, Production Planning) to guide inventory, pricing, and client retention efforts in the B2B jewelry sector.<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/bb5ebb95-c38b-41f0-9755-91ce6554d4e5" />
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/ca4ec3ab-0401-49e2-9443-9fb2a69b04e9" />
